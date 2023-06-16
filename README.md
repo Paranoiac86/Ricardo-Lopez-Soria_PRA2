@@ -1,4 +1,4 @@
-Ricardo-Lopez-Soria
+# Ricardo-Lopez-Soria
 PRAC2 UOC Tipología de datos
 
 Práctica realizada por: Ricardo López Soria
